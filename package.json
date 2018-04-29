@@ -1,0 +1,15 @@
+{
+  "name": "mernapp",
+  "version": "1.0.0",
+  "description": "backend for react-native apps using RESTful routing and MERN stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(git://github.com/utkarshthe7/mernApp.git)"
+  },
+  "author": "Utkarsh Havle",
+  "license": "MIT"
+}
